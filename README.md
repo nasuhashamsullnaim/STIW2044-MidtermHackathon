@@ -1,4 +1,4 @@
-# book_midterm
+# Midterm 24 Hours Hackathon
 
 A new Flutter project.
 
